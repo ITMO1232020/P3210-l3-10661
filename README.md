@@ -28,4 +28,4 @@
 - Для управления списком результатов должен использоваться Session-scoped Managed Bean.
 - Конфигурация управляемых бинов должна быть задана с помощью аннотаций.
 - Правила навигации между страницами приложения должны быть заданы в отдельном конфигурационном файле.  
-![График](https://github.com/SuperJaremy/Web3/blob/master/areas.png)
+![График](https://github.com/SuperJaremy/Web3/blob/master/areas.png) 
